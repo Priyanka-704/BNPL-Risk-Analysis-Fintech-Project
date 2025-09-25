@@ -23,7 +23,7 @@ A beginner-level Fintech project building a risk assessment tool for Buy Now, Pa
 
 ## Setup Instructions
 1. Clone the repo: `git clone https://github.com/Priyanka-704/BNPL-Risk-Analysis-Fintech-Project.git` (or download ZIP).
-2. Open in Google Colab: Upload the .ipynb files or copy code into a new notebook.
+2. Open in Google Colab: Day0_Setup_BNPL_Project.ipynb
 3. Install libraries: Run `!pip install pandas numpy scikit-learn plotly sqlite3 pandas-datareader` in the first cell.
 4. Run notebooks sequentially (e.g., start with Day0_Setup_BNPL_Project.ipynb).
 5. For local setup: Use Anaconda > Jupyter Notebook.
