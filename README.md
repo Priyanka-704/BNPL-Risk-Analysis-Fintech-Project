@@ -51,3 +51,4 @@ A beginner-level Fintech project building a risk assessment tool for Buy Now, Pa
 
 ---
 *This project follows best practices for open-source Fintech analysis. Data is mock/synthetic for privacy.*
+"Updated README with project overview, setup, and Day 0 progress."
