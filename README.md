@@ -28,24 +28,6 @@ A beginner-level Fintech project building a risk assessment tool for Buy Now, Pa
 4. Run notebooks sequentially (e.g., start with Day0_Setup_BNPL_Project.ipynb).
 5. For local setup: Use Anaconda > Jupyter Notebook.
 
-## Project Timeline (25 Days)
-- **Phase 1 (Days 1-5)**: Research & Planning (BNPL risks, SQL schema, datasets).
-- **Phase 2 (Days 6-10)**: Data Setup & Prep (ETL pipeline, cleaning, queries).
-- **Phase 3 (Days 11-15)**: Risk Modeling & Analysis (scoring, stats, visuals).
-- **Phase 4 (Days 16-20)**: Dashboard & Simulation (Plotly/Dash app, what-if scenarios).
-- **Phase 5 (Days 21-25)**: Wrap-Up & Portfolio (docs, testing, report/deck).
-
-## Day 0 Progress
-- Repository created on 25 September 2025.
-- Environment set up in Google Colab with libraries tested.
-- Mock BNPL data created (5 sample loans), inserted into SQLite, and queried for risks (e.g., 20% default rate).
-- Basic risk flags added (e.g., 'High Risk' for defaults).
-- Notebook: Day0_Setup_BNPL_Project.ipynb (includes code and outputs).
-
-## Next Steps
-- Day 1: Research BNPL basics and risks.
-- Contributions: Open to feedback! Built by Priyanka as a skill-building project for Fintech analyst roles.
-
 ## Contact
 [Your LinkedIn or Email, e.g., linkedin.com/in/priyanka-fintech | priyanka@example.com]
 
